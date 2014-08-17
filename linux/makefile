@@ -2,7 +2,7 @@ FC = gfortran
 FFLAGS =
 
 all:
-	$(FC) $(FFLAGS) ../wwdisp.f90 -o wwdisp
+	$(FC) $(FFLAGS) ../wwdisp.f90 -o wwdisp.exe
 
 clean:
-	rm -f *.mod params
+	rm -f params.mod
