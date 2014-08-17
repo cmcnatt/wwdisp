@@ -8,3 +8,5 @@ linux - folder for linux build inlcuding linux executable
 For more information run: wwdisp.exe --help	
 
 contact: cameron.mcnatt@gmail.com
+
+(In this project, I'm learning/practicing Fortran, Git, and licesing stuff. Please let me know if you have any suggestions. Thanks!)
