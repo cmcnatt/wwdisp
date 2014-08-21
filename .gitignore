@@ -1,2 +1,9 @@
 *.mod
+
+*.suo
+*.pdb
+*.u2d
+*.intermediate.manifest
 *~
+
+[Dd]ebug/
